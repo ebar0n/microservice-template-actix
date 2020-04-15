@@ -45,11 +45,3 @@ curl -i -X GET "http://127.0.0.1:8000/health/"
 
 {"health":"Ok","agent":"[agent]","created_at":"[time]","version":"0.0.1"}
 ```
-
-## Generate QR
-
-```bash
-curl -i -X GET "http://127.0.0.1:8000/api/v1/generate/?message=hello+wold"
-
-{"url":"/static/[token].png","message":""}
-```
