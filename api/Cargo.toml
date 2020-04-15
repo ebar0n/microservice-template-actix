@@ -1,5 +1,5 @@
 [package]
-name = "microservice-qr-codes"
+name = "microservice-template-actix"
 version = "0.0.1"
 authors = ["ebar0n"]
 edition = "2018"
