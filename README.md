@@ -1,4 +1,4 @@
-# microservice-qr-codes
+# microservice-template-actix
 
 # Installation
 
